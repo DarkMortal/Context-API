@@ -41,3 +41,11 @@
       yarn audit
 
 ## [Read full Documentation here](https://classic.yarnpkg.com/lang/en/docs/)
+
+## List of commands:-
+
+- yarn dev : vite
+- yarn build : vite build
+- yarn preview : vite preview
+
+All these commands are listed in <b>package.json</b> file.
