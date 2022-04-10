@@ -44,8 +44,8 @@
 
 ## List of commands:-
 
-- yarn dev : vite
-- yarn build : vite build
-- yarn preview : vite preview
+- yarn dev : npx vite
+- yarn build : npx vite build
+- yarn preview : npx vite preview
 
 All these commands are listed in <b>package.json</b> file.
