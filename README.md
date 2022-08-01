@@ -1,5 +1,8 @@
 # Context-API in React using Yarn and Vite
 
+- ### To create a React project in Webpack:-
+
+      yarn create react-app project-name
 - ### To create a React project in Vite:-
 
       $ yarn create vite
